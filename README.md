@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi I'm Eric!
 
-<!--
-**EricGaoo/EricGaoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Systems Design Engineering student at the University of Waterloo designing and building technologies that people will **love**.
 
-Here are some ideas to get you started:
+##Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Learning about firmware at UW Midnight Sun Solar Rayce Car team ☀️
+* Exploring AI with Wat.ai and the Internet 🧠
+* Seeking 2024 Winter opportunities to learn more and contribute to a meaningful project
+
+##Reach out!
+
+[Website](https://ericgao.framer.ai/)
+[Linkedin](https://www.linkedin.com/in/ericygao/)
+[Email](mailto:eric.gao1@uwaterloo.ca)
