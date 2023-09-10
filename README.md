@@ -11,5 +11,7 @@ I'm a Systems Design Engineering student at the University of Waterloo designing
 ## Reach out!
 
 [Website](https://ericgao.framer.ai/)
+
 [Linkedin](https://www.linkedin.com/in/ericygao/)
+
 [Email](mailto:eric.gao1@uwaterloo.ca)
